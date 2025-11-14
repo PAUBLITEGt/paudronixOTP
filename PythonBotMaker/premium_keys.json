@@ -1,0 +1,27 @@
+{
+    "keys": {
+        "paublte-gen1-BHL45BVFZU17GPTX": {
+            "expires_at": "2025-12-14T03:59:30.606127",
+            "chat_id": 1532022891,
+            "level": "Sin Nivel"
+        }
+    },
+    "user_active_keys": {
+        "1532022891": "paublte-gen1-BHL45BVFZU17GPTX"
+    },
+    "subscriptions": [
+        7590578210,
+        1532022891
+    ],
+    "user_contacts": {
+        "7590578210": {
+            "name": "PAUBLITE",
+            "username": "@PAUBLITE_GT"
+        },
+        "1532022891": {
+            "name": "Usman",
+            "username": "@Usmanggn"
+        }
+    },
+    "banned_users": []
+}
